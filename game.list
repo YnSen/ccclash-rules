@@ -1,0 +1,17 @@
+#游戏王决斗链接
+DOMAIN-KEYWORD,konami
+IP-CIDR,210.128.243.0/24
+IP-CIDR,163.49.60.0/24
+IP-CIDR,52.84.225.0/24
+IP-CIDR,99.86.193.0/24
+#英雄联盟手游
+DOMAIN-SUFFIX,riotgames.com
+DOMAIN-SUFFIX,riotcdn.net
+DOMAIN-SUFFIX,wr.pvp.net
+DOMAIN-SUFFIX,sdk-api-v1.singular.net
+DOMAIN-SUFFIX,metric-api.newrelic.com
+DOMAIN-SUFFIX,insights-collector.newrelic.com
+DOMAIN-SUFFIX,exceptions.singular.net
+DOMAIN-SUFFIX,wildrift-na.akamaized.net
+IP-CIDR,129.226.3.169/32
+IP-CIDR,101.32.0.0/16
