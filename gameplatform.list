@@ -220,28 +220,6 @@ DOMAIN-SUFFIX,rsg.sc
 DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
 DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
-## > Riot
-DOMAIN-SUFFIX,historyofdota.com
-DOMAIN-SUFFIX,historyofdota.net
-DOMAIN-SUFFIX,historyofdota.org
-DOMAIN-SUFFIX,instituteofwar.org
-DOMAIN-SUFFIX,molesports.com
-DOMAIN-SUFFIX,rgpub.io
-DOMAIN-SUFFIX,riot-games.com
-DOMAIN-SUFFIX,riot.com
-DOMAIN-SUFFIX,riot.net
-DOMAIN-SUFFIX,riotcdn.net
-DOMAIN-SUFFIX,riotgames.co.kr
-DOMAIN-SUFFIX,riotgames.com
-DOMAIN-SUFFIX,riotgames.info
-DOMAIN-SUFFIX,riotgames.jp
-DOMAIN-SUFFIX,riotgames.net
-DOMAIN-SUFFIX,riotgames.tv
-DOMAIN-SUFFIX,riotpin.com
-DOMAIN-SUFFIX,riotpoints.com
-DOMAIN-SUFFIX,rstatic.net
-DOMAIN-SUFFIX,supremacy.com
-DOMAIN-SUFFIX,supremacy.net
 ## >> Valorant
 DOMAIN-SUFFIX,playvalorant.com
 ## >> Riot Forge
