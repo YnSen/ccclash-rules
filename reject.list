@@ -1,11 +1,11 @@
-DOMAIN-SUFFIX,networksdk.ssacdn.com
 DOMAIN-KEYWORD,unityads
 DOMAIN-KEYWORD,eventunityads
 DOMAIN-KEYWORD,adcolony
 DOMAIN-KEYWORD,supersonicads
-DOMAIN-KEYWORD,lh3.googleadsserving.cn
-DOMAIN-KEYWORD,pagead2.googleadservices.com
-DOMAIN-KEYWORD,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,networksdk.ssacdn.com
+DOMAIN-SUFFIX,lh3.googleadsserving.cn
+DOMAIN-SUFFIX,pagead2.googleadservices.com
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,tracking.prd.mz.internal.unity3d.com
 DOMAIN-SUFFIX,publisher-event.unityads.unity3d.com
 DOMAIN-SUFFIX,api.wlvpn.com
