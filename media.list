@@ -3,3 +3,6 @@ DOMAIN-SUFFIX,xvideos.es
 DOMAIN-SUFFIX,xvideos.red
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,xvideos-cdn.com
+#youtube
+IP-CIDR,172.217.27.142/32
+IP-CIDR,142.251.43.14/32
