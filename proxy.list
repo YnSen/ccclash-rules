@@ -14,7 +14,9 @@ IP-CIDR,185.206.27.0/24,no-resolve
 IP-CIDR,66.203.125.22/32
 #api.mega.co.nz
 IP-CIDR,64.190.62.111/32
+
 DOMAIN-SUFFIX,tmate.io
+#duyaoss
 DOMAIN-SUFFIX,duyaoss.com
 IP-CIDR,172.67.72.165/32
 IP-CIDR,104.26.3.26/32
