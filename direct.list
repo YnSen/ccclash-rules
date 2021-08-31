@@ -35,5 +35,9 @@ DOMAIN-SUFFIX,mkvdo.com
 DOMAIN-SUFFIX,nangua55.com
 DOMAIN-SUFFIX,yyetss.com
 DOMAIN-SUFFIX,jmsooo.com
+
+#vercel.app
 DOMAIN-SUFFIX,vercel.app
 IP-CIDR,76.223.126.88/32
+
+DOMAIN-SUFFIX,sync.nimbusweb.me
