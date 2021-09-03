@@ -4,7 +4,7 @@ DOMAIN-KEYWORD,mega
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.nz
-IP-CIDR,66.203.126.0/23,no-resolve
+IP-CIDR,66.203.0.0/16
 IP-CIDR,94.24.36.0/24,no-resolve
 IP-CIDR,94.24.37.0/24,no-resolve
 IP-CIDR,185.206.24.0/24,no-resolve
