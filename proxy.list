@@ -49,3 +49,6 @@ IP-CIDR,104.20.10.218/32
 
 DOMAIN-SUFFIX,git.openwrt.org
 IP-CIDR,46.101.214.210/32
+
+#vscode扩展同步
+DOMAIN-SUFFIX,vscode-sync.trafficmanager.net
