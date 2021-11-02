@@ -42,5 +42,8 @@ DOMAIN-SUFFIX,cupfox.com
 #vercel.app
 DOMAIN-SUFFIX,vercel.app
 IP-CIDR,76.223.126.88/32
+IP-CIDR,8.8.8.8/32
+IP-CIDR,8.8.4.4/32
+IP-CIDR,1.1.1.1/32
 
 DOMAIN-SUFFIX,sync.nimbusweb.me
