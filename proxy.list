@@ -39,8 +39,6 @@ IP-CIDR,219.76.57.32/32
 #twinstagram
 IP-CIDR,31.13.82.52/32
 
-DOMAIN-SUFFIX,vscode-redirect.azurewebsites.net
-
 DOMAIN-SUFFIX,hunk-ch.com
 DOMAIN-SUFFIX,stboy.net
 DOMAIN-SUFFIX,modelhub.com
