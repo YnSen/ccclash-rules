@@ -47,3 +47,9 @@ IP-CIDR,8.8.4.4/32
 IP-CIDR,1.1.1.1/32
 
 DOMAIN-SUFFIX,sync.nimbusweb.me
+
+#vscode sync
+IP-CIDR,13.67.9.5/32
+DOMAIN-SUFFIX,vscode-sync.trafficmanager.net
+DOMAIN-SUFFIX,vscode-sync-ase-01.azurewebsites.net
+DOMAIN-SUFFIX,waws-prod-sg1-051.sip.azurewebsites.windows.net
