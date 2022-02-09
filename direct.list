@@ -53,3 +53,7 @@ IP-CIDR,13.67.9.5/32
 DOMAIN-SUFFIX,vscode-sync.trafficmanager.net
 DOMAIN-SUFFIX,vscode-sync-ase-01.azurewebsites.net
 DOMAIN-SUFFIX,waws-prod-sg1-051.sip.azurewebsites.windows.net
+
+##豌豆荚下载
+DOMAIN-SUFFIX,alissl.ucdl.pp.uc.cn
+
