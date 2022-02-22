@@ -57,3 +57,15 @@ DOMAIN-SUFFIX,waws-prod-sg1-051.sip.azurewebsites.windows.net
 ##豌豆荚下载
 DOMAIN-SUFFIX,alissl.ucdl.pp.uc.cn
 
+#aliyunapp
+IP-CIDR,47.102.32.0/24
+IP-CIDR,106.15.241.0/24
+IP-CIDR,106.15.241.0/24
+IP-CIDR,106.15.147.0/24
+IP-CIDR,47.101.100.0/24
+DOMAIN-SUFFIX,console-search-outer.cn-shanghai.log.aliyuncs.com
+DOMAIN-SUFFIX,app-content-all.oss-cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,query.aliyun.com
+DOMAIN-SUFFIX,alb-fsojdb4gtq4vuh41n1.cn-hangzhou.alb.aliyuncs.com
+DOMAIN-SUFFIX,app.aliyun.com
+DOMAIN-SUFFIX,arms-retcode.aliyuncs.com
