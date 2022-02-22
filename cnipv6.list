@@ -1,3 +1,4 @@
+##来源于https://ispip.clang.cn/all_cn_ipv6.txt
 IP-CIDR6,2001:250::/35,no-resolve
 IP-CIDR6,2001:250:2000::/35,no-resolve
 IP-CIDR6,2001:250:4000::/34,no-resolve
