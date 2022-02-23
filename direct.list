@@ -41,15 +41,15 @@ DOMAIN-SUFFIX,cupfox.com
 
 #vercel.app
 DOMAIN-SUFFIX,vercel.app
-IP-CIDR,76.223.126.88/32
-IP-CIDR,8.8.8.8/32
-IP-CIDR,8.8.4.4/32
-IP-CIDR,1.1.1.1/32
+IP-CIDR,76.223.126.88/32,no-resolve
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
+IP-CIDR,1.1.1.1/32,no-resolve
 
 DOMAIN-SUFFIX,sync.nimbusweb.me
 
 #vscode sync
-IP-CIDR,13.67.9.5/32
+IP-CIDR,13.67.9.5/32,no-resolve
 DOMAIN-SUFFIX,vscode-sync.trafficmanager.net
 DOMAIN-SUFFIX,vscode-sync-ase-01.azurewebsites.net
 DOMAIN-SUFFIX,waws-prod-sg1-051.sip.azurewebsites.windows.net
@@ -58,10 +58,10 @@ DOMAIN-SUFFIX,waws-prod-sg1-051.sip.azurewebsites.windows.net
 DOMAIN-SUFFIX,alissl.ucdl.pp.uc.cn
 
 #aliyunapp
-IP-CIDR,47.102.32.0/24
-IP-CIDR,106.15.241.0/24
-IP-CIDR,106.15.147.0/24
-IP-CIDR,47.101.100.0/24
+IP-CIDR,47.102.32.0/24,no-resolve
+IP-CIDR,106.15.241.0/24,no-resolve
+IP-CIDR,106.15.147.0/24,no-resolve
+IP-CIDR,47.101.100.0/24,no-resolve
 DOMAIN-SUFFIX,console-search-outer.cn-shanghai.log.aliyuncs.com
 DOMAIN-SUFFIX,app-content-all.oss-cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,query.aliyun.com
