@@ -60,7 +60,6 @@ DOMAIN-SUFFIX,alissl.ucdl.pp.uc.cn
 #aliyunapp
 IP-CIDR,47.102.32.0/24
 IP-CIDR,106.15.241.0/24
-IP-CIDR,106.15.241.0/24
 IP-CIDR,106.15.147.0/24
 IP-CIDR,47.101.100.0/24
 DOMAIN-SUFFIX,console-search-outer.cn-shanghai.log.aliyuncs.com
