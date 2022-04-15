@@ -1,3 +1,7 @@
+#matrix
+DOMAIN-SUFFIX,matrix.org
+DOMAIN-SUFFIX,﻿matrix-client.matrix.org
+
 #mega
 PROCESS-NAME,mega.privacy.android.app
 DOMAIN-KEYWORD,mega
