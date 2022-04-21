@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,matrix.org
 DOMAIN-SUFFIX,﻿matrix-client.matrix.org
 
+#instagram
+DOMAIN-KEYWORD,instagram
+
 #mega
 PROCESS-NAME,mega.privacy.android.app
 DOMAIN-KEYWORD,mega
@@ -40,10 +43,7 @@ IP-CIDR,198.35.26.98/32,no-resolve
 ## facebook157.240.206.35 31.13.77.35,no-resolve
 IP-CIDR,31.13.77.35/32,no-resolve
 IP-CIDR,157.240.206.35/32,no-resolve
-#hkinstagram
-IP-CIDR,219.76.57.32/32,no-resolve
-#twinstagram
-IP-CIDR,31.13.82.52/32,no-resolve
+
 
 DOMAIN-SUFFIX,hunk-ch.com
 DOMAIN-SUFFIX,stboy.net
