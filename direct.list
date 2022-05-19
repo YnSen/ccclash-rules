@@ -74,5 +74,5 @@ DOMAIN-SUFFIX,app.aliyun.com
 DOMAIN-SUFFIX,arms-retcode.aliyuncs.com
 
 ##opendns
-IP-CIDR,208.67.222.222,no-resolve
-IP-CIDR,208.67.220.220,no-resolve
+IP-CIDR,208.67.222.222/32,no-resolve
+IP-CIDR,208.67.220.220/32,no-resolve
