@@ -227,8 +227,9 @@ DOMAIN-SUFFIX,convrgencegame.com
 DOMAIN-SUFFIX,riotforgegames.com
 DOMAIN-SUFFIX,ruinedking.com
 ## > Steam
-DOMAIN-KEYWORD,steamcommunity
+DOMAIN-KEYWORD,steammedia
 DOMAIN-KEYWORD,steamstore
+DOMAIN-KEYWORD,steamcommunity
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,playartifact.com
