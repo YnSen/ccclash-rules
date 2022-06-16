@@ -1,3 +1,9 @@
+#TMDB
+DOMAIN-KEYWORD,themoviedb
+
+#imdb
+DOMAIN-KEYWORD,imdb
+
 #suwa
 DOMAIN-SUFFIX,cloud.faster.buzz
 
