@@ -1,5 +1,8 @@
+#imageshack
+DOMAIN-SUFFIX,imageshack.com
+
 #TMDB
-DOMAIN-KEYWORD,themoviedb
+#DOMAIN-KEYWORD,themoviedb
 
 #imdb
 DOMAIN-KEYWORD,imdb
