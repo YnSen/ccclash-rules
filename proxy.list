@@ -1,5 +1,6 @@
 #debian
 DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,debian.map.fastlydns.net
 
 #proxmon
 DOMAIN-SUFFIX,download.proxmox.com
