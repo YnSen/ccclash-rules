@@ -1,3 +1,6 @@
+#debian
+DOMAIN-SUFFIX,debian.org
+
 #proxmon
 DOMAIN-SUFFIX,download.proxmox.com
 
