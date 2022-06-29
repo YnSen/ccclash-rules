@@ -1,3 +1,6 @@
+#deepl translation
+DOMAIN-SUFFIX,deepl.com
+
 #debian
 DOMAIN-SUFFIX,ftp.debian.org
 DOMAIN-SUFFIX,debian.map.fastlydns.net
