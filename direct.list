@@ -72,6 +72,7 @@ DOMAIN-SUFFIX,query.aliyun.com
 DOMAIN-SUFFIX,alb-fsojdb4gtq4vuh41n1.cn-hangzhou.alb.aliyuncs.com
 DOMAIN-SUFFIX,app.aliyun.com
 DOMAIN-SUFFIX,arms-retcode.aliyuncs.com
+DOMAIN-SUFFIX,docker.com
 
 ##opendns
 IP-CIDR,208.67.222.222/32,no-resolve
