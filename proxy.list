@@ -82,5 +82,7 @@ IP-CIDR,172.67.72.36/32,no-resolve
 IP-CIDR,104.20.9.218/32,no-resolve
 IP-CIDR,104.20.10.218/32,no-resolve
 
+DOMAIN-SUFFIX,sendesub.vercel.app
+
 DOMAIN-SUFFIX,git.openwrt.org
 IP-CIDR,46.101.214.210/32,no-resolve
