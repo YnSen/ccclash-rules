@@ -71,11 +71,3 @@ DOMAIN-SUFFIX,arms-retcode.aliyuncs.com
 ##opendns
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
-
-#dmxq
-DOMAIN-SUFFIX,dmxq.net
-DOMAIN-SUFFIX,dami2.me
-DOMAIN-SUFFIX,dami3.me
-DOMAIN-SUFFIX,dami4.me
-DOMAIN-SUFFIX,dmxq*.com
-
