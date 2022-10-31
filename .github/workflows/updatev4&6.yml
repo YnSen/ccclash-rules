@@ -5,14 +5,9 @@ on:
   workflow_dispatch:
     inputs:
       ssh:
-        description: 'SSH connection to Actions'
+        description: 'run'
         required: true
         default: 'false'
-
-  push:
-    paths:
-     -'cnipv4.list'
-     -'cnipv6.list'
  
 jobs:
   build:
