@@ -1,0 +1,31 @@
+name: update cnv4/v6.list
+
+on:
+  repository_dispatch:
+  workflow_dispatch:
+    inputs:
+      ssh:
+        description: 'SSH connection to Actions'
+        required: true
+        default: 'false'
+  
+  push:
+    branches:
+      -main
+ 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@main
+      
+    - name: updatefile
+    rm -rf cnipv4.list
+    rm -rf cnipv6.list
+    curl https://ispip.clang.cn/all_cn.txt > cnv4.txt
+    curl https://ispip.clang.cn/all_cn_ipv6.txt > cnv6.txt
+    awk '{print "IP-CIDR6,"$0}' cnv4.txt > cnipv4.list
+    awk '{print "IP-CIDR6,"$0}' cnv6.txt > cnipv6.list
+    rm -rf cnv4.txt && rm -rf cnv6.txt
