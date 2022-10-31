@@ -8,10 +8,11 @@ on:
         description: 'SSH connection to Actions'
         required: true
         default: 'false'
-  
+
   push:
-    branches:
-      -main
+    paths:
+     -'cnipv4.list'
+     -'cnipv6.list'
  
 jobs:
   build:
@@ -30,3 +31,10 @@ jobs:
         awk '{print "IP-CIDR6,"$0}' cnv4.txt > cnipv4.list
         awk '{print "IP-CIDR6,"$0}' cnv6.txt > cnipv6.list
         rm -rf cnv4.txt && rm -rf cnv6.txt
+        
+    - name: Add & Commit
+      uses: EndBug/add-and-commit@v4.4.0
+      with:
+        add: "-A"
+      env:
+        GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}     
