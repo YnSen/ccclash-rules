@@ -28,7 +28,7 @@ jobs:
         rm -rf cnipv6.list
         curl https://ispip.clang.cn/all_cn.txt > cnv4.txt
         curl https://ispip.clang.cn/all_cn_ipv6.txt > cnv6.txt
-        awk '{print "IP-CIDR6,"$0}' cnv4.txt > cnipv4.list
+        awk '{print "IP-CIDR,"$0}' cnv4.txt > cnipv4.list
         awk '{print "IP-CIDR6,"$0}' cnv6.txt > cnipv6.list
         rm -rf cnv4.txt && rm -rf cnv6.txt
         
