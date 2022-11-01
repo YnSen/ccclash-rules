@@ -1,4 +1,4 @@
-name: update cnv4/v6.list
+name: update test
 
 on:
   repository_dispatch:
