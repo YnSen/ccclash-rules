@@ -1,3 +1,6 @@
+#cloudflare dns
+DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
+
 #vercel
 IP-CIDR,76.76.21.0/25
 
