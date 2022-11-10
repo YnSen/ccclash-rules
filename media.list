@@ -1,3 +1,6 @@
+#tiktok
+DOMAIN-SUFFIX,ttwstatic.com
+
 ## > Disney
 PROCESS-NAME,com.disney.disneyplus
 DOMAIN-SUFFIX,20thcenturystudios.com.au
