@@ -1,3 +1,6 @@
+#vmware
+DOMAIN-SUFFIX,vmware.com
+
 #wireshark更新下载
 DOMAIN-SUFFIX,dl.wireshark.org
 
