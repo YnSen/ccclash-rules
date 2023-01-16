@@ -1,6 +1,10 @@
 DOMAIN-SUFFIX,files.pythonhosted.org
 DOMAIN-SUFFIX,downloads.rclone.org
 DOMAIN-SUFFIX,cdnjs.cloudflare.com
+
+#zerotier-download
+DOMAIN-SUFFIX,download.zerotier.com
+
 #vmware
 DOMAIN-SUFFIX,vmware.com
 
