@@ -24,7 +24,6 @@ IP-CIDR,76.76.21.0/25
 
 DOMAIN-SUFFIX,plausible.io
 DOMAIN-SUFFIX,alexametrics.com
-DOMAIN-SUFFIX,a.nel.cloudflare.com
 
 #蜻蜓pj
 DOMAIN-SUFFIX,qt6.com
