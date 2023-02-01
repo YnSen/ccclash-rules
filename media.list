@@ -1,6 +1,5 @@
 DOMAIN-SUFFIX,larecontent.com
 IP-CIDR,108.59.0.0/16,udp
-IP-CIDR,82.64.0.0/16,udp
 IP-CIDR,84.16.0.0/16,udp
 IP-CIDR,205.206.0.0/16,udp
 IP-CIDR,20.189.79.0/24,udp
