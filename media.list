@@ -1,3 +1,8 @@
+#appletv add
+DOMAIN-SUFFIX,mediaauth.apple.com
+DOMAIN-SUFFIX,mzstatic.com
+#end appletv
+
 DOMAIN-SUFFIX,omg.blog
 DOMAIN-SUFFIX,larecontent.com
 DOMAIN-SUFFIX,jwplayer.com
