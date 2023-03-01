@@ -93,6 +93,9 @@ DOMAIN-SUFFIX,nitroflare.com
 DOMAIN-SUFFIX,jwpltx.com
 DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,appcdn01.xyz
+DOMAIN-SUFFIX,appcdn02.xyz
+DOMAIN-SUFFIX,savetweetvid.com
+DOMAIN-SUFFIX,flixdot.com
 
 DOMAIN-KEYWORD,1069
 DOMAIN-KEYWORD,gay
@@ -101,7 +104,6 @@ DOMAIN-KEYWORD,boy
 DOMAIN-SUFFIX,upload.cc
 DOMAIN-SUFFIX,gfycat.com
 DOMAIN-SUFFIX,slmaxed.com
-DOMAIN-SUFFIX,appcdn*.xyz
 
 #playvid
 DOMAIN-SUFFIX,playvids.com
