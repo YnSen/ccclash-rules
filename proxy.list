@@ -1,4 +1,7 @@
-DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,azureedge.net
+
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,files.pythonhosted.org
 DOMAIN-SUFFIX,downloads.rclone.org
