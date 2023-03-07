@@ -1,3 +1,6 @@
+#Github
+IP-CIDR,140.82.113.0/32
+
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,platform.openai.com
 DOMAIN-SUFFIX,sentry.io
