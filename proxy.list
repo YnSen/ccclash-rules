@@ -1,13 +1,6 @@
 #Github
 IP-CIDR,140.82.113.0/32
 
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,platform.openai.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,azureedge.net
-
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,files.pythonhosted.org
 DOMAIN-SUFFIX,downloads.rclone.org
