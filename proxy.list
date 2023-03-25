@@ -3,6 +3,8 @@ IP-CIDR,172.217.0.0/16
 #Github
 IP-CIDR,140.82.113.0/32
 
+DOMAIN-SUFFIX,linktr.ee
+
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,files.pythonhosted.org
 DOMAIN-SUFFIX,downloads.rclone.org
