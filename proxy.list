@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,app.writesonic.com
 DOMAIN-SUFFIX,poe.com
 #google
 IP-CIDR,172.217.0.0/16
+IP-CIDR,142.250.141.0/24
 #Github
 IP-CIDR,140.82.113.0/32
 
