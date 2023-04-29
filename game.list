@@ -303,3 +303,9 @@ DOMAIN-SUFFIX,lpl.com.cn
 DOMAIN-SUFFIX,pvp.net
 DOMAIN-SUFFIX,pvp.tv
 DOMAIN-SUFFIX,ulol.com
+
+#### >> Mojang(我的世界)
+##DOMAIN-SUFFIX,callersbane.com
+##DOMAIN-SUFFIX,minecraft.net
+##DOMAIN-SUFFIX,minecraftshop.com
+##DOMAIN-SUFFIX,mojang.com
