@@ -27,6 +27,8 @@ DOMAIN-SUFFIX,dood.re
 DOMAIN-SUFFIX,dood.video
 DOMAIN-SUFFIX,doodcdn.co
 DOMAIN-SUFFIX,doodcdn.com
+DOMAIN-SUFFIX,dooood.com
+DOMAIN-SUFFIX,dood.stream
 
 #tiktok
 DOMAIN-SUFFIX,ttwstatic.com
@@ -99,8 +101,7 @@ DOMAIN-SUFFIX,flixdot.com
 DOMAIN-SUFFIX,sao.dog
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,sbrapid.com
-DOMAIN-SUFFIX,dooood.com
-DOMAIN-SUFFIX,dood.stream
+DOMAIN-SUFFIX,sbhight.com
 
 DOMAIN-KEYWORD,1069
 DOMAIN-KEYWORD,gay
