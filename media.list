@@ -102,6 +102,9 @@ DOMAIN-SUFFIX,sao.dog
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,sbrapid.com
 DOMAIN-SUFFIX,sbhight.com
+DOMAIN-SUFFIX,*cdnstatic*.xyz
+DOMAIN-SUFFIX,cloudfront-cdn-images.com
+DOMAIN-SUFFIX,sbface.com
 
 DOMAIN-KEYWORD,1069
 DOMAIN-KEYWORD,gay
