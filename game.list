@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,bnet.163.com
 DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
 DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
 DOMAIN-SUFFIX,bnetshopus.akamaized.net
+IP-CIDR,158.115.207.105/32
 
 #英雄联盟手游
 ## > Riot
