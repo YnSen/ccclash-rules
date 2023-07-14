@@ -1,5 +1,6 @@
 #steamdownload
 DOMAIN-SUFFIX,steamcontent.com
+IP-CIDR,103.28.54.0/24
 
 #epicgames-download1
 DOMAIN-SUFFIX,epicgames-download1.akamaized.net
