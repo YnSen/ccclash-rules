@@ -1,3 +1,6 @@
+#docker
+DOMAIN-SUFFIX,docker.io
+
 #openai-chatgpt
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,openai.com
