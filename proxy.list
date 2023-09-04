@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,softpedia.com
 DOMAIN-SUFFIX,softpedia-secure-download.com
 
+#paolu
+DOMAIN-SUFFIX,paoluz.link
+
 #docker
 DOMAIN-SUFFIX,docker.io
 
