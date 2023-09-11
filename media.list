@@ -106,6 +106,8 @@ DOMAIN-SUFFIX,*cdnstatic*.xyz
 DOMAIN-SUFFIX,cloudfront-cdn-images.com
 DOMAIN-SUFFIX,sbface.com
 DOMAIN-SUFFIX,javboys.cam
+DOMAIN-SUFFIX,sw-cdn-images
+DOMAIN-SUFFIX,sw-cdnstream
 
 DOMAIN-KEYWORD,1069
 DOMAIN-KEYWORD,gay
