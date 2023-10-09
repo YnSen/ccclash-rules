@@ -2,7 +2,10 @@
 DOMAIN-KEYWORD,konami
 DOMAIN-SUFFIX,applilink.jp
 DOMAIN-SUFFIX,static.nvidiagrid.net
-
+IP-CIDR,210.128.243.0/24
+IP-CIDR,163.49.60.0/24
+IP-CIDR,52.84.225.0/24
+IP-CIDR,99.86.193.0/24
 
 ## > Blizzard
 DOMAIN-SUFFIX,battle.net
