@@ -57,7 +57,7 @@ DOMAIN-SUFFIX,waws-prod-sg1-051.sip.azurewebsites.windows.net
 DOMAIN-SUFFIX,alissl.ucdl.pp.uc.cn
 
 #aliyunapp
-IP-CIDR,47.96.0.0/10,no-resolve
+#IP-CIDR,47.96.0.0/10,no-resolve
 
 IP-CIDR,47.101.0.0/10,no-resolve
 IP-CIDR,47.102.0.0/10,no-resolve
