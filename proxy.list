@@ -122,6 +122,7 @@ IP-CIDR,157.240.206.35/32,no-resolve
 
 #DOMAIN-SUFFIX,drive.mypikpak.com
 #DOMAIN-SUFFIX,api-drive.mypikpak.com
+DOMAIN-SUFFIX,langbaidu.com
 
 #v2ex.com
 IP-CIDR,172.67.3.188/32,no-resolve
