@@ -1,5 +1,6 @@
 #idm
 DOMAIN-SUFFIX,internetdownloadmanager.com
+IP-CIDR,185.80.221.19/32
 
 #termius
 DOMAIN-SUFFIX,termius.com
