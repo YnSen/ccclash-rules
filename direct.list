@@ -12,33 +12,6 @@ IP-CIDR,103.28.54.0/24
 #epicgames-download1
 DOMAIN-SUFFIX,epicgames-download1.akamaized.net
 
-
-DOMAIN-SUFFIX,novipnoad.com
-DOMAIN-SUFFIX,dmdm2020.com
-DOMAIN-SUFFIX,dm55.cc
-DOMAIN-SUFFIX,dmd55.com
-DOMAIN-SUFFIX,ddrk.me
-DOMAIN-SUFFIX,bimibimi.cc
-DOMAIN-SUFFIX,ppzhu.vip
-DOMAIN-SUFFIX,kan84.tv
-DOMAIN-SUFFIX,x4jdm.tv
-DOMAIN-SUFFIX,77kpp.com
-DOMAIN-SUFFIX,xinxindm.com
-DOMAIN-SUFFIX,silisili.in
-DOMAIN-SUFFIX,mkvdo.com
-DOMAIN-SUFFIX,nangua55.com
-DOMAIN-SUFFIX,yyetss.com
-DOMAIN-SUFFIX,api-ipv6.ip.sb
-DOMAIN-SUFFIX,waipian1.com
-DOMAIN-SUFFIX,cupfox.com
-
-DOMAIN-SUFFIX,sync.nimbusweb.me
-
-#vscode sync
-DOMAIN-SUFFIX,vscode-sync.trafficmanager.net
-DOMAIN-SUFFIX,vscode-sync-ase-01.azurewebsites.net
-DOMAIN-SUFFIX,waws-prod-sg1-051.sip.azurewebsites.windows.net
-
 ##豌豆荚下载
 DOMAIN-SUFFIX,alissl.ucdl.pp.uc.cn
 
