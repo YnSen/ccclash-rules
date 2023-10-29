@@ -21,7 +21,7 @@ DOMAIN-SUFFIX,alissl.ucdl.pp.uc.cn
 #IP-CIDR,47.101.0.0/10,no-resolve
 #IP-CIDR,47.102.0.0/10,no-resolve
 #IP-CIDR,47.110.0.0/10,no-resolve
-IP-CIDR,106.15.0.0/10,no-resolve
+#IP-CIDR,106.15.0.0/10,no-resolve
 DOMAIN-SUFFIX,console-search-outer.cn-shanghai.log.aliyuncs.com
 DOMAIN-SUFFIX,app-content-all.oss-cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,query.aliyun.com
