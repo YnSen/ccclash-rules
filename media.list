@@ -22,14 +22,15 @@ DOMAIN-SUFFIX,sbchill.com
 DOMAIN-SUFFIX,hqq.tv
 
 #dood
-DOMAIN-SUFFIX,dood.yt
-DOMAIN-SUFFIX,dood.re
-DOMAIN-SUFFIX,dood.pm
-DOMAIN-SUFFIX,dood.video
-DOMAIN-SUFFIX,doodcdn.co
-DOMAIN-SUFFIX,doodcdn.com
-DOMAIN-SUFFIX,dooood.com
-DOMAIN-SUFFIX,dood.stream
+#DOMAIN-SUFFIX,dood.yt
+#DOMAIN-SUFFIX,dood.re
+#DOMAIN-SUFFIX,dood.pm
+#DOMAIN-SUFFIX,dood.video
+#DOMAIN-SUFFIX,doodcdn.co
+#DOMAIN-SUFFIX,doodcdn.com
+#DOMAIN-SUFFIX,dooood.com
+#DOMAIN-SUFFIX,dood.stream
+DOMAIN-KEYWORD,dood
 
 #tiktok
 DOMAIN-SUFFIX,ttwstatic.com
