@@ -30,7 +30,6 @@ DOMAIN-SUFFIX,hqq.tv
 #DOMAIN-SUFFIX,doodcdn.com
 #DOMAIN-SUFFIX,dooood.com
 #DOMAIN-SUFFIX,dood.stream
-
 DOMAIN-KEYWORD,dood
 
 #tiktok
@@ -66,7 +65,7 @@ DOMAIN-SUFFIX,akamai-cdn-content.com
 DOMAIN-SUFFIX,akamai-cdn-images.com
 DOMAIN-SUFFIX,akamai-video-content.com
 DOMAIN-SUFFIX,gavfree.com
-
+DOMAIN-SUFFIX,lvturbo.com
 DOMAIN-SUFFIX,vkcdnservice.com
 DOMAIN-SUFFIX,pix-cdn.org
 DOMAIN-SUFFIX,cdn15.com
