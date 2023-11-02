@@ -1,3 +1,6 @@
+#helm
+DOMAIN-SUFFIX,get.helm.sh
+
 #typora
 DOMAIN-SUFFIX,typora.io
 DOMAIN-SUFFIX,support.typora.io
