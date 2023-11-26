@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,steamcontent.com
 IP-CIDR,103.28.54.0/24
 
 #epicgames-download1
-DOMAIN-SUFFIX,epicgames-download1.akamaized.net
+DOMAIN-KEYWORD,epicgames-download
 
 ##豌豆荚下载
 DOMAIN-SUFFIX,alissl.ucdl.pp.uc.cn
