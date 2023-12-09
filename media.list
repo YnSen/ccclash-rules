@@ -152,6 +152,23 @@ DOMAIN-SUFFIX,peekvids.com
 DOMAIN-SUFFIX,userscontent.net
 #endplayvid
 
+#vectorplexis
+DOMAIN-SUFFIX,vectorplexis.com
+DOMAIN-SUFFIX,avatars.steamstatic.com
+DOMAIN-SUFFIX,cdn.discordapp.com
+DOMAIN-SUFFIX,cdn.jsdelivr.net
+DOMAIN-SUFFIX,cdn.ravenjs.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,e.widgetbot.io
+DOMAIN-SUFFIX,fonts.googleapis.com
+DOMAIN-SUFFIX,fonts.gstatic.com
+DOMAIN-SUFFIX,images-ext-1.discordapp.net
+DOMAIN-SUFFIX,images-ext-2.discordapp.net
+DOMAIN-SUFFIX,stonks.widgetbot.io
+DOMAIN-SUFFIX,storage.ko-fi.com
+DOMAIN-SUFFIX,use.fontawesome.com
+DOMAIN-SUFFIX,vpstorage.sh1ny.net
+
 #泥巴
 DOMAIN-SUFFIX,mudvod.tv
 DOMAIN-SUFFIX,nivod.tv
