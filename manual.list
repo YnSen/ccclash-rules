@@ -1,2 +1,4 @@
 #pikpakdownload
 DOMAIN-SUFFIX,dl-*.mypikpak.com
+IP-CIDR,47.79.0.0/24
+IP-CIDR,47.79.1.0/24
