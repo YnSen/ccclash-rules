@@ -3,6 +3,8 @@ DOMAIN-SUFFIX,rclone.org
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,strato-emu.com
 DOMAIN-SUFFIX,potplayer.daum.net
+DOMAIN-SUFFIX,wallhaven.cc
+
 
 #dns
 IP-CIDR,208.67.222.222/32
