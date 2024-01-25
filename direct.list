@@ -11,6 +11,7 @@ IP-CIDR,103.28.54.0/24
 
 #epicgames-download1
 DOMAIN-KEYWORD,epicgames-download
+DOMAIN-SUFFIX,fastly-download.epicgames.com
 
 ##豌豆荚下载
 DOMAIN-SUFFIX,alissl.ucdl.pp.uc.cn
