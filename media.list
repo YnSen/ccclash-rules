@@ -28,14 +28,14 @@ DOMAIN-SUFFIX,sbchill.com
 DOMAIN-SUFFIX,hqq.tv
 
 #dood
-DOMAIN-REGEX,*do0od*
-DOMAIN-REGEX,*dood*
+DOMAIN-REGEX,.*do0od.*
+DOMAIN-REGEX,.*dood.*
 
 #tiktok
 DOMAIN-SUFFIX,ttwstatic.com
 
 DOMAIN-KEYWORD,boyfriendtv
-DOMAIN-REGEX,*xvideos*
+DOMAIN-REGEX,.*xvideos.*
 DOMAIN-SUFFIX,hunk-ch.com
 DOMAIN-SUFFIX,stboy.net
 DOMAIN-SUFFIX,modelhub.com
@@ -44,7 +44,7 @@ DOMAIN-SUFFIX,456mov.com
 DOMAIN-SUFFIX,suckjerkcock.com
 DOMAIN-SUFFIX,ssl0d.com
 
-DOMAIN-REGEX,^akamai*
+DOMAIN-REGEX,^akamai.*
 DOMAIN-SUFFIX,gavfree.com
 DOMAIN-SUFFIX,lvturbo.com
 DOMAIN-SUFFIX,vkcdnservice.com
