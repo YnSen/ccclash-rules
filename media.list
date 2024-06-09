@@ -83,7 +83,7 @@ DOMAIN-SUFFIX,sao.dog
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,sbrapid.com
 DOMAIN-SUFFIX,sbhight.com
-DOMAIN-REGEX,*cdnstatic*.xyz
+DOMAIN-REGEX,.*cdnstatic*.xyz
 DOMAIN-SUFFIX,cloudfront-cdn-images.com
 DOMAIN-SUFFIX,sbface.com
 DOMAIN-SUFFIX,javboys.cam
