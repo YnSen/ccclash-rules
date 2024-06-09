@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,hqq.tv
 
 #dood
 DOMAIN-REGEX,.*do0od.*
+DOMAIN-REGEX,.*d000d.*
 DOMAIN-REGEX,.*dood.*
 
 #tiktok
