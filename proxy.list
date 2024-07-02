@@ -21,6 +21,9 @@ DOMAIN-SUFFIX,suno.ai
 
 #xiaoya
 DOMAIN-SUFFIX,docker.xiaoya.pro
+#xiaoya工具脚本
+DOMAIN-SUFFIX,ddsrem.com
+
 
 #adguard
 DOMAIN-SUFFIX,adtidy.org
