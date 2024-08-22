@@ -1,3 +1,6 @@
+DOMAIN-REGEX,.*chatgpt.*
+DOMAIN-REGEX,.*openai.*
+
 DOMAIN-SUFFIX,umate.me
 DOMAIN-SUFFIX,wiki.metacubex.one
 
