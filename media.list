@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,hqq.tv
 
 #dood
 DOMAIN-REGEX,.*do0od.*
-DOMAIN-REGEX,.*d000d.*
+DOMAIN-REGEX,.*d0.*0d.*
 DOMAIN-REGEX,.*dood.*
 
 #tiktok
@@ -123,6 +123,11 @@ DOMAIN-SUFFIX,www.gstatic.com
 DOMAIN-SUFFIX,player.javboys.cam
 DOMAIN-SUFFIX,redgifs.com
 DOMAIN-SUFFIX,cloudatacdn.com
+DOMAIN-SUFFIX,hologydenoughta.info
+DOMAIN-SUFFIX,ghabovethec.info
+DOMAIN-SUFFIX,niersfohiplaceof.info
+DOMAIN-SUFFIX,crazyvideotodownload.com
+DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-REGEX,^video-host*.cupcdn.*
 DOMAIN-REGEX,.*videocdn.*
 
