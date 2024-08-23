@@ -122,8 +122,10 @@ DOMAIN-SUFFIX,ds2video.com
 DOMAIN-SUFFIX,www.gstatic.com
 DOMAIN-SUFFIX,player.javboys.cam
 DOMAIN-SUFFIX,redgifs.com
+DOMAIN-SUFFIX,cloudatacdn.com
 DOMAIN-REGEX,^video-host*.cupcdn.*
 DOMAIN-REGEX,.*videocdn.*
+
 
 DOMAIN-KEYWORD,1069
 DOMAIN-KEYWORD,gay
