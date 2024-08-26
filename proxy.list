@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,download.bitcomet.com
+
 DOMAIN-REGEX,.*chatgpt.*
 DOMAIN-REGEX,.*openai.*
 
