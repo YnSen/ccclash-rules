@@ -129,8 +129,10 @@ DOMAIN-SUFFIX,niersfohiplaceof.info
 DOMAIN-SUFFIX,getrunkhomuto.info
 DOMAIN-SUFFIX,crazyvideotodownload.com
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,cdn-jupiter.com
 DOMAIN-REGEX,^video-host*.cupcdn.*
 DOMAIN-REGEX,.*videocdn.*
+
 
 
 DOMAIN-KEYWORD,1069
