@@ -1,3 +1,6 @@
+#savetwitter.net/zh-cn，twitter视频下载
+DOMAIN-SUFFIX,dl.snapcdn.app
+
 DOMAIN-SUFFIX,download.bitcomet.com
 
 DOMAIN-REGEX,.*chatgpt.*
