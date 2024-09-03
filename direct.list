@@ -1,3 +1,5 @@
+DOMAIN-REGEX,.*ipv6.*
+
 PROCESS-NAME,clash_meta
 PROCESS-NAME,zerotier-one
 DOMAIN-SUFFIX,niceduck.cloud
