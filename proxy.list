@@ -1,3 +1,9 @@
+#pikpakdownload
+DOMAIN-REGEX,^dl-.*pikpak.com
+IP-CIDR,47.79.0.0/24
+IP-CIDR,47.79.1.0/24
+IP-CIDR,47.79.2.0/24
+
 #tailscale下载
 DOMAIN-SUFFIX,dl.tailscale.com
 
