@@ -1,5 +1,5 @@
 #google voice
-IP-CIDR,216.239.36.145,no-resolve
+IP-CIDR,216.239.36.145/32,no-resolve
 
 #pikpakdownload
 DOMAIN-REGEX,^dl-.*pikpak.com
@@ -95,7 +95,7 @@ DOMAIN-SUFFIX,typora.onfastspring.com
 
 #idm
 DOMAIN-SUFFIX,internetdownloadmanager.com
-IP-CIDR,185.80.221.19/32
+IP-CIDR,185.80.221.19/32,no-resolve
 
 #termius
 DOMAIN-SUFFIX,termius.com
@@ -147,11 +147,11 @@ DOMAIN-SUFFIX,app.writesonic.com
 DOMAIN-SUFFIX,poe.com
 #google
 #DOMAIN-SUFFIX,googleapis.cn
-#IP-CIDR,172.217.0.0/16
-IP-CIDR,142.250.141.0/24
-IP-CIDR,142.250.191.0/24
+#IP-CIDR,172.217.0.0/16,no-resolve
+IP-CIDR,142.250.141.0/24,no-resolve
+IP-CIDR,142.250.191.0/24,no-resolve
 #Github
-IP-CIDR,140.82.113.0/32
+IP-CIDR,140.82.113.0/32,no-resolve
 
 DOMAIN-SUFFIX,linktr.ee
 
@@ -177,7 +177,7 @@ DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 
 #vercel
-IP-CIDR,76.76.21.0/24
+IP-CIDR,76.76.21.0/24,no-resolve
 
 DOMAIN-SUFFIX,plausible.io
 DOMAIN-SUFFIX,alexametrics.com
