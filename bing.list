@@ -2,3 +2,10 @@
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bingapis.com
+
+#microsoft copilot
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,r.nimblecapture.com
+DOMAIN-SUFFIX,api.nimblecapture.com
+DOMAIN-SUFFIX,browser.events.data.microsoft.com
+DOMAIN-SUFFIX,prod-eastasia.access-point.cloudmessaging.edge.microsoft.com
