@@ -1,3 +1,6 @@
+#cisco umbrella dns
+DOMAIN-SUFFIX,doh.umbrella.com
+
 #google voice
 IP-CIDR,216.239.36.145/32,no-resolve
 
