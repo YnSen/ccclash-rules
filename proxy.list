@@ -12,6 +12,10 @@ DOMAIN-SUFFIX,dl.snapcdn.app
 
 DOMAIN-SUFFIX,download.bitcomet.com
 
+#chatgpt voice
+DOMAIN-REGEX,.*livekit.cloud.*
+
+#chatgpt
 DOMAIN-REGEX,.*chatgpt.*
 DOMAIN-REGEX,.*openai.*
 
