@@ -9,9 +9,6 @@ DOMAIN-SUFFIX,dler.io
 DOMAIN-SUFFIX,dynv6.com
 DOMAIN-SUFFIX,dynv6.net
 
-#pikpakupload
-DOMAIN-KEYWORD,vip-lixian
-
 #steamdownload
 DOMAIN-SUFFIX,steamcontent.com
 IP-CIDR,103.28.54.0/24
