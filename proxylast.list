@@ -1,8 +1,1 @@
-#pikpak
-DOMAIN-SUFFIX,pikpak.me
-DOMAIN-SUFFIX,mypikpak.net
-DOMAIN-SUFFIX,pikpakdrive.com
-IP-CIDR,47.245.0.0/16,no-resolve
-IP-CIDR,47.79.0.0/16,no-resolve
-IP-CIDR,8.222.0.0/16,no-resolve
-IP-CIDR,177.245.0.0/16,no-resolve
+
