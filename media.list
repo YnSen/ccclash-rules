@@ -133,7 +133,7 @@ DOMAIN-SUFFIX,cdn-jupiter.com
 DOMAIN-REGEX,^video-host*.cupcdn.*
 DOMAIN-REGEX,.*videocdn.*
 
-
+DOMAIN-SUFFIX,jiyou.pw
 
 DOMAIN-KEYWORD,1069
 DOMAIN-KEYWORD,gay
