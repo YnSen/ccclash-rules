@@ -1,3 +1,6 @@
+#kuyou app
+DOMAIN-SUFFIX,tomenapp.xyz
+
 DOMAIN-REGEX,.*ipv6.*
 
 DOMAIN-SUFFIX,register.liberx.info
