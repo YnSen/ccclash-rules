@@ -1,3 +1,7 @@
+#bluesky app
+DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,host.bsky.network
+
 #wiztree download
 DOMAIN-SUFFIX,kxcdn.com
 
