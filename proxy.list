@@ -2,6 +2,8 @@
 DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,host.bsky.network
 
+DOMAIN-SUFFIX,nightalks.com
+
 #wiztree download
 DOMAIN-SUFFIX,kxcdn.com
 
