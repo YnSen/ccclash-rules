@@ -130,6 +130,7 @@ DOMAIN-SUFFIX,getrunkhomuto.info
 DOMAIN-SUFFIX,crazyvideotodownload.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cdn-jupiter.com
+DOMAIN-SUFFIX,sacdnssedge.com
 DOMAIN-REGEX,^video-host*.cupcdn.*
 DOMAIN-REGEX,.*videocdn.*
 
