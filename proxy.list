@@ -37,9 +37,6 @@ DOMAIN-REGEX,^dl-.*pikpak.com
 #tailscale下载
 DOMAIN-SUFFIX,dl.tailscale.com
 
-#savetwitter.net/zh-cn，twitter视频下载
-DOMAIN-SUFFIX,dl.snapcdn.app
-
 DOMAIN-SUFFIX,download.bitcomet.com
 
 #chatgpt voice
