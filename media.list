@@ -1,6 +1,8 @@
 #niceduck emby
 DOMAIN-SUFFIX,cf.niceduck.lol
 
+DOMAIN-SUFFIX,x.com
+
 #iptv-age
 DOMAIN-SUFFIX,adultiptv.net
 
