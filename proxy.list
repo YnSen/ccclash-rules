@@ -1,3 +1,6 @@
+#immwrtdownload
+DOMAIN-SUFFIX,downloads.immortalwrt.org
+
 #bluesky app
 DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,host.bsky.network
