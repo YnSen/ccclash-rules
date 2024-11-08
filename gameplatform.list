@@ -223,6 +223,8 @@ DOMAIN-SUFFIX,steamunlocked.net
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,valvesoftware.com
+#steam云同步
+DOMAIN-REGEX,^steamcloud.*
 #### >> Akamai Download CDN
 ##DOMAIN-SUFFIX,steambroadcast.akamaized.net
 ##DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
