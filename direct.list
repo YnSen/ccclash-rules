@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,ghp.ci
 DOMAIN-SUFFIX,hub.gitmirror.com
 DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,jsdelivr.net
 
 #kuyou app
 DOMAIN-SUFFIX,tomenapp.xyz
