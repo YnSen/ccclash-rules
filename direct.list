@@ -1,3 +1,10 @@
+#github代理
+DOMAIN-SUFFIX,gh-proxy.com
+DOMAIN-SUFFIX,ghp.ci
+DOMAIN-SUFFIX,hub.gitmirror.com
+DOMAIN-SUFFIX,ghproxy.com
+DOMAIN-SUFFIX,jsdelivr.com
+
 #kuyou app
 DOMAIN-SUFFIX,tomenapp.xyz
 DOMAIN-SUFFIX,v2.sbit.cc
