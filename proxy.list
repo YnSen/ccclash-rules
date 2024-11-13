@@ -1,8 +1,6 @@
 #immwrtdownload
 DOMAIN-SUFFIX,downloads.immortalwrt.org
 
-DOMAIN-SUFFIX,videos.ctfassets.net
-
 #bluesky app
 DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,host.bsky.network
@@ -56,6 +54,15 @@ DOMAIN-REGEX,.*livekit.cloud.*
 #chatgpt
 DOMAIN-REGEX,.*chatgpt.*
 DOMAIN-REGEX,.*openai.*
+DOMAIN-SUFFIX,videos.ctfassets.net
+DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,kjeek.com
+DOMAIN-SUFFIX,crisp.chat
+DOMAIN-SUFFIX,prodregistryv2.org
+DOMAIN-SUFFIX,stun.voipbuster.com
+IP-CIDR,46.38.237.104/32
+IP-CIDR,103.195.103.66/32
+IP-CIDR,103.143.93.190/32
 
 DOMAIN-SUFFIX,umate.me
 DOMAIN-SUFFIX,wiki.metacubex.one
