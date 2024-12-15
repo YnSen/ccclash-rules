@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,syncthing.net
+DOMAIN-SUFFIX,synology.com
 #docker-cloudflare下载
 DOMAIN-SUFFIX,caddc557.cf-workers-docker-io-dop.pages.dev
 
