@@ -41,8 +41,8 @@ jobs:
                 # IPv6 地址
                 echo "IP-CIDR6,$line" >> $OUTPUT_FILE
               else
-                # 域名，去掉 ".+"
-                sanitized_line=$(echo "$line" | sed 's/\.\+//g')
+                # 域名，去掉".+" 和"+"
+                sanitized_line=$(echo "$line" | sed 's/\.\+//g; s/^\+//g')
                 echo "DOMAIN-SUFFIX,$sanitized_line" >> $OUTPUT_FILE
               fi
             done < $INPUT_FILE
