@@ -1,0 +1,62 @@
+name: Process Clash Rules
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  process-rules:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Download .list files
+        run: |
+          curl -o google.list https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geoip/google.list
+          curl -o category_pt_cn.list https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/category-pt%40!cn.list
+          curl -o pt.list https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geoip/pt.list
+          curl -o bt.list https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geoip/bt.list
+
+      - name: Process .list files
+        run: |
+          process_file() {
+            INPUT_FILE=$1
+            OUTPUT_FILE=$2
+
+            # 创建或清空输出文件
+            > $OUTPUT_FILE
+
+            # 逐行读取并处理
+            while IFS= read -r line; do
+              if [[ $line =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+ ]]; then
+                # IPv4 地址
+                echo "IP-CIDR,$line" >> $OUTPUT_FILE
+              elif [[ $line =~ : ]]; then
+                # IPv6 地址
+                echo "IP-CIDR6,$line" >> $OUTPUT_FILE
+              else
+                # 域名
+                echo "DOMAIN-SUFFIX,$line" >> $OUTPUT_FILE
+              fi
+            done < $INPUT_FILE
+          }
+
+          # 处理每个文件
+          process_file google.list processed_google_rules.list
+          process_file category_pt_cn.list processed_category_pt_cn_rules.list
+          process_file pt.list processed_pt_rules.list
+          process_file bt.list processed_bt_rules.list
+
+          echo "Processed rules saved."
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add processed_google_rules.list processed_category_pt_cn_rules.list processed_pt_rules.list processed_bt_rules.list
+          git commit -m "Add processed rules for all lists"
+          git push
