@@ -1,6 +1,8 @@
 name: Process Clash Rules
 
 on:
+  schedule:
+    - cron: "0 0 * * 1" # 每周一 00:00 UTC
   push:
     branches:
       - main
@@ -39,8 +41,9 @@ jobs:
                 # IPv6 地址
                 echo "IP-CIDR6,$line" >> $OUTPUT_FILE
               else
-                # 域名
-                echo "DOMAIN-SUFFIX,$line" >> $OUTPUT_FILE
+                # 域名，去掉 ".+"
+                sanitized_line=$(echo "$line" | sed 's/\.\+//g')
+                echo "DOMAIN-SUFFIX,$sanitized_line" >> $OUTPUT_FILE
               fi
             done < $INPUT_FILE
           }
