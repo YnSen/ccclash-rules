@@ -3,15 +3,11 @@ name: Process Clash Rules
 on:
   schedule:
     - cron: "0 0 * * 1" # 每周一 00:00 UTC
-  push:
-    branches:
-      - main
-  workflow_dispatch:
+  workflow_dispatch: # 手动触发
 
 jobs:
   process-rules:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -28,10 +24,8 @@ jobs:
           process_file() {
             INPUT_FILE=$1
             OUTPUT_FILE=$2
-
             # 创建或清空输出文件
             > $OUTPUT_FILE
-
             # 逐行读取并处理
             while IFS= read -r line; do
               if [[ $line =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+ ]]; then
@@ -47,19 +41,17 @@ jobs:
               fi
             done < $INPUT_FILE
           }
-
           # 处理每个文件
           process_file google.list processed_google_rules.list
           process_file category_pt_cn.list processed_category_pt_cn_rules.list
           process_file pt.list processed_pt_rules.list
           process_file bt.list processed_bt_rules.list
-
           echo "Processed rules saved."
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add processed_google_rules.list processed_category_pt_cn_rules.list processed_pt_rules.list processed_bt_rules.list
-          git commit -m "Add processed rules for all lists"
+          git add .  # 添加所有更改，包括新生成的文件
+          git commit -m "Add processed rules for all lists" || echo "No changes to commit"
           git push
