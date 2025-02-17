@@ -1,3 +1,4 @@
+DOMAIN-REGEX,^docker-images-prod.*.cloudflarestorage.com
 DOMAIN-SUFFIX,dockerstatic.com
 DOMAIN-SUFFIX,dl.tailscale.com
 
