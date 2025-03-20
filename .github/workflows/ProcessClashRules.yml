@@ -47,7 +47,7 @@ jobs:
           process_file category_pt_cn.list processed_category_pt_cn_rules.list
           process_file pt.list processed_pt_rules.list
           process_file bt.list processed_bt_rules.list
-          process_file openai.list processed_bt_rules.list
+          process_file openai.list processed_openai_rules.list
           echo "Processed rules saved."
 
       - name: Commit and push changes
