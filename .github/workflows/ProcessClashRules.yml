@@ -37,7 +37,7 @@ jobs:
                 echo "IP-CIDR6,$line" >> $OUTPUT_FILE
               else
                 # 域名，去掉".+" 和"+"，但保留一级域名前的"."
-                sanitized_line=$(echo "$line" | sed 's/^\+.//')
+                sanitized_line=$(echo "$line" | sed 's/^\.+//')
                 echo "DOMAIN-SUFFIX,$sanitized_line" >> $OUTPUT_FILE
               fi
             done < $INPUT_FILE
