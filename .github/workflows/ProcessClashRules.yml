@@ -18,7 +18,6 @@ jobs:
           curl -o category_pt_cn.list https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/category-pt%40!cn.list
           curl -o pt.list https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geoip/pt.list
           curl -o bt.list https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geoip/bt.list
-          curl -o openai.list https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/openai.list
 
       - name: Process .list files
         run: |
@@ -47,7 +46,6 @@ jobs:
           process_file category_pt_cn.list processed_category_pt_cn_rules.list
           process_file pt.list processed_pt_rules.list
           process_file bt.list processed_bt_rules.list
-          process_file openai.list processed_openai_rules.list
           echo "Processed rules saved."
 
       - name: Commit and push changes
