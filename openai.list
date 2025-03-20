@@ -15,3 +15,13 @@ openai.com.cdn.cloudflare.net
 o33249.ingest.sentry.io
 openaicom.imgix.net
 browser-intake-datadoghq.com
+#chatgpt
+#DOMAIN-REGEX,.*chatgpt.*
+#DOMAIN-REGEX,.*openai.*
+DOMAIN-SUFFIX,videos.ctfassets.net
+DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,kjeek.com
+DOMAIN-SUFFIX,crisp.chat
+DOMAIN-SUFFIX,prodregistryv2.org
+DOMAIN-SUFFIX,stun.voipbuster.com
+IP-CIDR,46.38.237.104/32
