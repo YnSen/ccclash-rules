@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,browser-intake-datadoghq.com
 #chatgpt
 #DOMAIN-REGEX,.*chatgpt.*
 #DOMAIN-REGEX,.*openai.*
-DOMAIN-SUFFIXvideos.ctfassets.net
+DOMAIN-SUFFIX,videos.ctfassets.net
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,kjeek.com
 DOMAIN-SUFFIX,crisp.chat
