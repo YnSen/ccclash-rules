@@ -28,15 +28,6 @@ DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,mypikpak.net
 DOMAIN-SUFFIX,pikpakdrive.com
 DOMAIN-SUFFIX,o4504926511693824.ingest.sentry.io
-IP-CIDR,47.245.0.0/16,no-resolve
-IP-CIDR,47.79.0.0/16,no-resolve
-IP-CIDR,47.88.0.0/16,no-resolve
-IP-CIDR,8.222.0.0/16,no-resolve
-IP-CIDR,8.209.0.0/16,no-resolve
-IP-CIDR,8.219.0.0/16,no-resolve
-IP-CIDR,188.19.0.0/16,no-resolve
-IP-CIDR,161.117.0.0/16,no-resolve
-IP-CIDR,177.245.0.0/16,no-resolve
 
 
 #cisco umbrella dns
