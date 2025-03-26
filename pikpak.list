@@ -1,0 +1,12 @@
+#pikpak
+DOMAIN-SUFFIX,pikpak.me
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,mypikpak.net
+DOMAIN-SUFFIX,pikpakdrive.com
+DOMAIN-SUFFIX,o4504926511693824.ingest.sentry.io
+#pikpakdownload
+DOMAIN-REGEX,^dl-.*pikpak.com
+####proxylast里47.79.0.0/16已经包含了以下3个地址范围
+#IP-CIDR,47.79.0.0/24,no-resolve
+#IP-CIDR,47.79.1.0/24,no-resolve
+#IP-CIDR,47.79.2.0/24,no-resolve
