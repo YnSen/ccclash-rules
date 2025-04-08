@@ -1,3 +1,7 @@
+#let dns4,6 checkdomain direct
+DOMAIN-REGEX,.*dns4.*
+DOMAIN-REGEX,.*dns6.*
+
 #远景论坛
 DOMAIN-SUFFIX,pcbeta.com
 #沉浸式翻译
