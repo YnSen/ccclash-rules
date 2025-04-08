@@ -1,5 +1,4 @@
 DOMAIN-REGEX,^([a-z0-9-]+\.)*dns[0-9]*\.[a-z0-9.-]+$
-DOMAIN-REGEX,^([a-z0-9-]+\.)*leak[0-9]*\.[a-z0-9.-]+$
 #远景论坛
 DOMAIN-SUFFIX,pcbeta.com
 #沉浸式翻译
