@@ -24,7 +24,6 @@ DOMAIN-SUFFIX,kjeek.com
 DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,prodregistryv2.org
 DOMAIN-SUFFIX,stun.voipbuster.com
-IP-CIDR,46.38.237.104/32
 # moreAI
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
