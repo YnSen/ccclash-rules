@@ -27,9 +27,6 @@ DOMAIN-SUFFIX,doh.umbrella.com
 IP-CIDR,146.112.41.5/32,no-resolve
 IP-CIDR,146.112.41.2/32,no-resolve
 
-#google voice
-IP-CIDR,216.239.36.145/32,no-resolve
-
 #tailscale下载
 DOMAIN-SUFFIX,dl.tailscale.com
 
@@ -140,13 +137,6 @@ DOMAIN-SUFFIX,winudf.com
 
 DOMAIN-SUFFIX,app.writesonic.com
 DOMAIN-SUFFIX,poe.com
-#google
-#DOMAIN-SUFFIX,googleapis.cn
-#IP-CIDR,172.217.0.0/16,no-resolve
-IP-CIDR,142.250.141.0/24,no-resolve
-IP-CIDR,142.250.191.0/24,no-resolve
-#Github
-IP-CIDR,140.82.113.0/32,no-resolve
 
 DOMAIN-SUFFIX,linktr.ee
 
