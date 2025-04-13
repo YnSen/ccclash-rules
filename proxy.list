@@ -191,9 +191,6 @@ DOMAIN-SUFFIX,cloud.faster.buzz
 DOMAIN-SUFFIX,matrix.org
 DOMAIN-SUFFIX,﻿matrix-client.matrix.org
 
-#instagram
-DOMAIN-KEYWORD,instagram
-
 DOMAIN-SUFFIX,tmate.io
 #duyaoss
 DOMAIN-SUFFIX,duyaoss.com
