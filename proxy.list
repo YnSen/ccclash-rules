@@ -2,7 +2,6 @@
 IP-CIDR,94.140.14.140/32
 DOMAIN-SUFFIX,unfiltered.adguard-dns.com
 
-DOMAIN-SUFFIX,video.mytvsuper.xyz
 DOMAIN-REGEX,^docker-images-prod.*.cloudflarestorage.com
 DOMAIN-SUFFIX,dockerstatic.com
 DOMAIN-SUFFIX,dl.tailscale.com
