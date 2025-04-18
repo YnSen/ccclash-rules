@@ -79,6 +79,7 @@ DOMAIN-SUFFIX,fastly-download.epicgames.com
 ##豌豆荚下载
 DOMAIN-SUFFIX,alissl.ucdl.pp.uc.cn
 
+IP-CIDR,156.224.28.186/32,no-resolve
 #aliyunapp
 #IP-CIDR,47.96.0.0/10,no-resolve
 
